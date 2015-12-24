@@ -10,3 +10,11 @@ Uses:
   
   
 ![](assets/demo1.png)
+
+-----------
+Caution:
+-----------
+It's a work in progress. Features:
+ * [x] give interface new look.
+ * [ ] can send request to some api.
+ * [ ] fix some bugs
